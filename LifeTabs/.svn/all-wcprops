@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk
+END
+import-summary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/import-summary.txt
+END
+gradlew
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/gradlew
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/local.properties
+END
+LifeTabs.iml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/LifeTabs.iml
+END
+gradle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/gradle.properties
+END
+gradlew.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/gradlew.bat
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/build.gradle
+END
+settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/settings.gradle
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml
+END
+CvANN_MLP.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvANN_MLP.class
+END
+CvANN_MLP_TrainParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvANN_MLP_TrainParams.class
+END
+CvBoost.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvBoost.class
+END
+CvRTParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvRTParams.class
+END
+CvBoostParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvBoostParams.class
+END
+CvGBTrees.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvGBTrees.class
+END
+CvStatModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvStatModel.class
+END
+CvGBTreesParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvGBTreesParams.class
+END
+CvDTree.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvDTree.class
+END
+CvRTrees.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvRTrees.class
+END
+CvSVM.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvSVM.class
+END
+CvParamGrid.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvParamGrid.class
+END
+CvDTreeParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvDTreeParams.class
+END
+EM.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/EM.class
+END
+CvSVMParams.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvSVMParams.class
+END
+CvERTrees.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvERTrees.class
+END
+CvKNearest.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvKNearest.class
+END
+Ml.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/Ml.class
+END
+CvNormalBayesClassifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/ml/CvNormalBayesClassifier.class
+END

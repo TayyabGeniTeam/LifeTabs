@@ -1,0 +1,73 @@
+10
+
+dir
+2490
+https://192.168.0.15/svn/Services/LifeTabs/client_code/trunk/app/src/main/res
+https://192.168.0.15/svn/Services
+
+
+
+2016-05-12T07:19:13.537926Z
+2490
+tayyab.geniteam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40cc49ee-a207-1c49-a4e5-3f097292468e
+
+values-w820dp
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+mipmap-xxhdpi
+dir
+
+drawable-xhdpi
+dir
+
+mipmap-xhdpi
+dir
+
+values
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+mipmap-hdpi
+dir
+
+drawable-mdpi
+dir
+
+mipmap-mdpi
+dir
+
+drawable-xxxhdpi
+dir
+
+mipmap-xxxhdpi
+dir
+
+layout
+dir
+

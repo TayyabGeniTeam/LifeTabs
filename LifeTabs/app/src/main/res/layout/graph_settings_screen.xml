@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transparent_bg">
+
+    <!-- <com.example.graphrangesettingssample.MyCustomView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"/> -->
+
+    <LinearLayout
+        android:id="@+id/ll_range"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/panel"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+
+        <!--  <com.example.graphrangesettingssample.MyCustomView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"/> -->
+
+       <!-- <LinearLayout
+            android:id="@+id/ll_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Slide the arrows to edit the LOW/HIGH zones" />
+
+        </LinearLayout>-->
+
+    </LinearLayout>
+
+</RelativeLayout>

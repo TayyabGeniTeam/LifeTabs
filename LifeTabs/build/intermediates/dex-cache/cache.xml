@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_9f424beb27049b906409f6be31276df7c071bf90.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_7a78a0021a69de8f9f64dedb74164969535a46f6.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_d8104f03c164857d3e1c988252db18eab640fbd2.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_12c8cdb7893611e869917c76da2936c84c65c7f5.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_8496882586821bd360dcab140d720b62c9faeded.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_9a10130575194f02d19ff4cb57c41db49294fecb.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_13aa1dffe390aff83c75cf56e8feb44376b915e7.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.instabug.library\instabug\2.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="da7c8658a85996ec7278e076d0dad8588f8168df">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.instabug.library-instabug-2.3.3_0c896acaea73d2c454c47c6ca639ab5415b7f005.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_4dcac3d8cdc246b90b11ba52ab6509a40dec9460.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_d0491af3d639e059657a522f4c9846f88d7f07eb.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\LifeTabs\openCVLibrary249\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="00700960840c13833f3c613c7d4e5bd5ae5d510a">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\LifeTabs-openCVLibrary249-unspecified_e1a1400e4c4bb8970a3dcac48539c700c767b43f.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\LifeTabs\GraphView-master\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cbad0574b166df4a25f3ae5ebaa393ecc188d43">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\LifeTabs-GraphView-master-unspecified_d9c08c775819d38c5a0a6726456d5de1ae3f846a.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_937c12a4210a16b15b33dd23226872e59d9711b5.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_cfd1dd53dbe4091ecf2a08eeaebc4f4bdee276c7.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_b9f44f40766d933358be232a27eaec6dd86d2a4b.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_4317872c345191cca200e12062ce4dad80dd529d.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_c71cc9421668d0289281136d95e3118b784b8f16.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_52b3036a39d457ccede8aed6fe6111c36dfb96c2.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_f879724e18ab167484849467720eae05c29e32d5.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_c08d76e1c76b067262c17217579001e5fbf2ce86.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_e2b961f27f3736fb8b1a04a0e9e0e2bab5bd354b.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_40d70376ccac5e6839cc9bdb97e00ac98a9bf50d.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_e12a0dc79e7c82fd24e8b7a09048346c969cb1b3.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_b2dfe5dfbfd3f2702644914ae12e7773fca94634.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_242e8063f07695d2e316235d5f386868649b96df.jar" />
+    </item>
+    <item
+        jar="C:\Users\geniteam\.gradle\caches\modules-2\files-2.1\com.squareup.mimecraft\mimecraft\1.1.1\66f73c3e42fa4658ef1cbae8b1ebefdaa856a23c\mimecraft-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66f73c3e42fa4658ef1cbae8b1ebefdaa856a23c">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\mimecraft-1.1.1_3a4aa1f27c20928af40b0ddbbc380d26eb7464e4.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_01e114eaf206114cf53ef55ba313a2188d4b8475.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_6ccfe158fdf2cdf42a2f7a40d5bbf0c5a816f9c0.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_149e492d815745791a89eec1825698c6b536a01e.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_07dd14989a3e7b4437227c6be15e85059bcade2c.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_661b9b1e880d74f7f0856e110e00d02463e93d1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\geniteam\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.13\b8668706414b5936d38c8a9e4c2be16e3c999c62\rxjava-1.0.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8668706414b5936d38c8a9e4c2be16e3c999c62">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\rxjava-1.0.13_e31b61b11d2fae08611932efa1cfe13e9a54c350.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.0.1_3fe654d9ecefc7f055e3a5108c8170c56745ac60.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_0060daa681f4114780bf74ee3b957facf0aadf72.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_7aee41056691b4fb1f25d36e0b812bd4abc3e67d.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_47818950b98a39c876ae750bcb55d252b3d0f3ad.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_codes\LifeTabs\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\Android_studio_codes\LifeTabs\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_dfbbd19f95abb1f74488b1cb6208fcc6b6b2298e.jar" />
+    </item>
+
+</items>

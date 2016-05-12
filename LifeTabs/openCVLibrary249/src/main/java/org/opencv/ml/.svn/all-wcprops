@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml
+END
+CvParamGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvParamGrid.java
+END
+CvDTreeParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvDTreeParams.java
+END
+EM.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/EM.java
+END
+CvERTrees.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvERTrees.java
+END
+CvSVMParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvSVMParams.java
+END
+CvKNearest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvKNearest.java
+END
+Ml.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/Ml.java
+END
+CvNormalBayesClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvNormalBayesClassifier.java
+END
+CvANN_MLP.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvANN_MLP.java
+END
+CvANN_MLP_TrainParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvANN_MLP_TrainParams.java
+END
+CvBoost.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvBoost.java
+END
+CvRTParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvRTParams.java
+END
+CvBoostParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvBoostParams.java
+END
+CvGBTrees.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvGBTrees.java
+END
+CvStatModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvStatModel.java
+END
+CvGBTreesParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvGBTreesParams.java
+END
+CvDTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvDTree.java
+END
+CvRTrees.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvRTrees.java
+END
+CvSVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/ml/CvSVM.java
+END

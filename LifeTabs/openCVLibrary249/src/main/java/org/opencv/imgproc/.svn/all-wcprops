@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/imgproc
+END
+Imgproc.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/imgproc/Imgproc.java
+END
+Moments.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/imgproc/Moments.java
+END
+Subdiv2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/imgproc/Subdiv2D.java
+END
+CLAHE.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/imgproc/CLAHE.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/video
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/video/Video.java
+END
+BackgroundSubtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/video/BackgroundSubtractor.java
+END
+KalmanFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/video/KalmanFilter.java
+END
+BackgroundSubtractorMOG.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/video/BackgroundSubtractorMOG.java
+END
+BackgroundSubtractorMOG2.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/video/BackgroundSubtractorMOG2.java
+END

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Life Tabs</string>
+
+    <string name="lifetab">LifeTabs</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Tutorials</string>
+    <string name="title_section3">Help</string>
+    <string name="title_section4">Privacy Policy</string>
+    <string name="title_section5">Feedback</string>
+    <string name="title_section6">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wait_txt1">Notice: please wait 30 seconds for the</string>
+    <string name="wait_txt2">reaction to take place on your test strip</string>
+    <string name="wait_txt3">before taking a picture.</string>
+
+    <string name="gotit">GOT IT</string>
+    <string name="rescan">RESCAN STRIP</string>
+
+    <string name="rescan_error_txt">Error: We were unable to read the strip correctly.We will take you back to the camera to try to scan the strip again.</string>
+    <string name="rescan_strip_txt">RESCAN STRIP</string>
+
+    <string name="last_reading">LAST READINGS</string>
+
+    <string name="dnt_show">Don\'t show again</string>
+
+    <!-- tutorials   -->
+
+    <string name="how_it_works">How it works</string>
+    <string name="open_app">Open app</string>
+    <string name="place_blood">Place blood drop in center of LifeTabs strip</string>
+    <string name="scan_strip">Tap \"Scan strips\"</string>
+    <string name="wait">Wait 30 seconds</string>
+    <string name="camera_scan">Scan LifeTabs strip with camera</string>
+    <string name="wait_for_results">Wait for results!</string>
+
+    <string name="show_tutorial">Show tutorial on start</string>
+    <string name="unit_mgdl">mg/dL</string>
+    <string name="unit_mmol">mmol/L</string>
+</resources>

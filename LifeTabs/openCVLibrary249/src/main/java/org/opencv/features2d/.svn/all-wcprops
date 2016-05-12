@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d
+END
+GenericDescriptorMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/GenericDescriptorMatcher.java
+END
+DMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/DMatch.java
+END
+DescriptorMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/DescriptorMatcher.java
+END
+KeyPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/KeyPoint.java
+END
+Features2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/Features2d.java
+END
+FeatureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/FeatureDetector.java
+END
+DescriptorExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/features2d/DescriptorExtractor.java
+END

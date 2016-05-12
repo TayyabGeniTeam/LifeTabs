@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/app
+END
+app.iml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/app/app.iml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/app/.gitignore
+END
+proguard-rules.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/app/proguard-rules.pro
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/app/build.gradle
+END

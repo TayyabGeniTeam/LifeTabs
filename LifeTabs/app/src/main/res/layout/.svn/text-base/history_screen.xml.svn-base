@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/history_main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.6">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+
+            <TextView
+                android:id="@+id/hours48"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/button_active"
+                android:text="48 hours"
+                android:textColor="#ffffff"
+                android:textSize="15sp"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/week1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/hours48"
+                android:background="@drawable/button_inactive"
+                android:text="1 week"
+                android:textSize="15sp"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/week2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_inactive"
+                android:text="2 weeks"
+                android:textSize="15sp"
+                android:layout_toLeftOf="@+id/month3"
+                android:gravity="center_vertical|center_horizontal" />
+
+            <TextView
+                android:id="@+id/month3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/button_inactive"
+                android:text="3 months"
+                android:textSize="15sp"
+                android:gravity="center" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/panel_with_graph"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:padding="6dp"
+                android:visibility="visible"
+                android:background="@drawable/graph_top">
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:text="Last 48 hours results"
+                    android:layout_marginLeft="5dp" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/settings_icon"
+                    android:layout_marginRight="5dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.5"
+                android:paddingBottom="10dp">
+
+            <com.jjoe64.graphview.GraphView
+                    android:id="@+id/graph"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="visible" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/graph_top"
+                    android:layout_alignParentBottom="true"
+                    android:visibility="gone"></LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <ListView
+                android:id="@+id/graph_specific_lv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/last_panel"
+                android:divider="@null"
+                android:padding="5dp">
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView_history"
+        android:divider="@null"
+        android:visibility="visible" />
+
+
+    <include android:id="@+id/setting_layout"
+        layout="@layout/graph_settings_screen"
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No previous readings"
+        android:id="@+id/tv_no_readings"
+        android:layout_centerInParent="true"
+        android:textColor="#D462FF"
+        android:textSize="20dp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

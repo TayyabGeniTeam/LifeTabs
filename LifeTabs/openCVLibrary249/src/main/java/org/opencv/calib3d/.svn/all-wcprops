@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/calib3d
+END
+StereoBM.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/calib3d/StereoBM.java
+END
+Calib3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/calib3d/Calib3d.java
+END
+StereoSGBM.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/src/main/java/org/opencv/calib3d/StereoSGBM.java
+END

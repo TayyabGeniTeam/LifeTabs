@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d
+END
+GenericDescriptorMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/GenericDescriptorMatcher.class
+END
+DMatch.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/DMatch.class
+END
+DescriptorMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/DescriptorMatcher.class
+END
+KeyPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/KeyPoint.class
+END
+Features2d.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/Features2d.class
+END
+FeatureDetector.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/FeatureDetector.class
+END
+DescriptorExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Services/!svn/ver/2490/LifeTabs/client_code/trunk/openCVLibrary249/build/intermediates/classes/release/org/opencv/features2d/DescriptorExtractor.class
+END
